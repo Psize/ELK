@@ -13,3 +13,9 @@
 ---
 
 ## Задание 3. Logstash
+
+<img width="2533" height="1251" alt="image" src="https://github.com/user-attachments/assets/5d3e129e-c4aa-4de6-b5f4-168cf235c4de" />
+
+---
+
+###
