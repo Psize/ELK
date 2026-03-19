@@ -18,4 +18,7 @@
 
 ---
 
-###
+## Задание 4. Filebeat
+
+<img width="1265" height="1249" alt="image" src="https://github.com/user-attachments/assets/a4d9c6a9-92eb-40aa-8516-75256e1a8074" />
+
